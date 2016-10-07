@@ -1,0 +1,25 @@
+# Project-Specific Ignores
+
+
+# General
+/.vagrant/
+/phpunit.xml
+/phpcs.xml
+
+# Composer Dependencies
+/vendor/*
+/node_modules
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
